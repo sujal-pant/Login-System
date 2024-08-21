@@ -1,4 +1,4 @@
-# PlamMind-Task
+
 ## Description
 
 This project includes a web application with both frontend and backend components. The backend is built with Express and MongoDB, while the frontend is built with React. The application supports user registration, login, password reset, and displays registered users with validation on signups.
